@@ -382,6 +382,35 @@ plt.show()
 </ul>
 These artists lead in terms of the number of tracks included across various music platforms, indicating their widespread popularity and presence in playlists, charts, and other music-related content.</p>
 
+---
+
+# About the author
+
+The author is currently a second-year student pursuing a Bachelor's degree in Electronics Engineering. They have a strong passion for technology and are dedicated to applying their knowledge to real-world projects. In addition to their academic pursuits, the author continually seeks to expand their skill set. They are excited about the opportunities in the electronics field and aim to contribute to innovative solutions in the industry.
+
+---
+
+# Acknowledgement
+
+I would like to express my gratitude to the following professors for their continuous guidance and support during this experiment:
+
+👩‍🏫 Engr. Ma. Madecheen S. Pangaliman, MSc <br/>
+👨‍🏫 Engr. Nico John Leo S. Lobos, MSc, ECE, ECT
+
+---
+
+# References:</h3>
+<ul>
+  <li>ECE2112 Lesson Materials</li>
+  <li>Python Software Foundation. (n.d.). <i>Python 3 reference documentation</i>. Retrieved from <a href="https://docs.python.org/3/reference/index.html" target="_blank">https://docs.python.org/3/reference/index.html</a></li>
+  <li>Waskom, M. (2020). <i>Seaborn: statistical data visualization</i>. Retrieved from <a href="https://seaborn.pydata.org/index.html" target="_blank">https://seaborn.pydata.org/index.html</a></li>
+  <li>Python Programming. (2019, September 18). <i>Python programming tutorials: Python crash course for beginners</i> [Video]. YouTube. Retrieved from <a href="https://www.youtube.com/watch?v=m1FEHPz90oI" target="_blank">https://www.youtube.com/watch?v=m1FEHPz90oI</a></li>
+  <li>Hunter, J. D. (2007). <i>Matplotlib: A 2D graphics environment</i>. Computing in Science & Engineering, 9(3), 90-95. Retrieved from <a href="https://matplotlib.org/stable/api/index.html" target="_blank">https://matplotlib.org/stable/api/index.html</a></li>
+</ul>
+
+---
+
+### Feel free to let the author know if there is anything they can do to improve the code. Thank you!
 
 
 
