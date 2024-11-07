@@ -372,8 +372,7 @@ plt.show()
 ```
 ![image](https://github.com/user-attachments/assets/dad70320-39b9-421d-a228-6c6c52a1b70f)
 
-💡 Top 5 Artists by Total Appearances</h3>
-<p>The top 5 artists with the highest total appearances across all platforms are:</p>
+💡 The top 5 artists with the highest total appearances across all platforms are:</p>
 <ul>
   <li><strong>The Weeknd</strong>: 150,273 appearances</li>
   <li><strong>Taylor Swift</strong>: 140,755 appearances</li>
